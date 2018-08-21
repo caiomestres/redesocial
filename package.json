@@ -1,0 +1,23 @@
+{
+  "name": "redesocial",
+  "version": "1.0.0",
+  "description": "Uma rede social qualquer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiomestres/redesocial.git"
+  },
+  "author": "Caio Mestres Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiomestres/redesocial/issues"
+  },
+  "homepage": "https://github.com/caiomestres/redesocial#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
